@@ -1,5 +1,4 @@
-ssss 
-
+sdas dasd a
 
 # 获取cookie
 安装多看点刷金币，使用HttpCanary等抓包工具，打开软件后进入我的页面
